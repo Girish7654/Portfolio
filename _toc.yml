@@ -1,0 +1,9 @@
+format: jb-book
+root: intro
+chapters:
+  - file: intro
+    title: Introduction
+  - file: streamlit
+    title: Streamlit App
+  - file: final_code
+    title: Final Code

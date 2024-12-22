@@ -1,0 +1,22 @@
+# Book settings
+title: "Employee Attrition Prediction"
+author: "Your Name"
+copyright: "2024"
+logo: ub.png
+
+# Execution settings
+execute:
+  execute_notebooks: force
+  allow_errors: true
+
+# Repository settings
+repository:
+  url: https://github.com/your-repo-name  # Change to your repo URL
+  path_to_book: docs  # Optional path to the book
+  branch: main  # Repository branch
+
+# HTML settings
+html:
+  use_issues_button: false
+  use_repository_button: true
+  navbar_number_sections: true
